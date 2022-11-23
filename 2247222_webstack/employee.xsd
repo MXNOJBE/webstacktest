@@ -1,0 +1,24 @@
+<xs:Schema xmlns:xs = "http://w3.org//2001/XMLSchema">
+<xs: element name = "Company"/>
+<complexType>
+<sequential>
+    <xs: element name = "Employee">
+    <complexType>
+    <sequential>
+    <xs: element name = "Emp-name" type="xsd:string"/>
+        <xs: element name = "Emp-salary" type="xsd:int"/>
+            <xs: element name = "Emp-email" type="xsd:string"/>
+                <xs: element name = "Emp-PhoneNum" type="xsd:int"/>
+                    <xs: element name = "Emp-Designation" type="xsd:string"/>
+    </xs element name = "Company">
+</xs element name = "Employee">
+</complexType>
+</sequential>
+</complexType>
+</sequential>
+
+
+
+
+
+    

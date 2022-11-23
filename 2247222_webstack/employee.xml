@@ -1,0 +1,17 @@
+<?xml version = "1.0">
+<Company>
+    <Employee>
+        <Emp-name>"Employee Name"</Emp-name>
+        <Emp-age>"Employee Age"</Emp-age>
+        <Emp-emailid>"Employee Email Adress"</Emp-emailid>
+        <Emp-Phoneum>"Employee Phone Number"</Emp-PhoneNum>
+        <Emp-designation></Emp-designation>
+    </Employee>
+    <Employee>
+        <Emp-name>"Employee Name"</Emp-name>
+        <Emp-age>"Employee Age"</Emp-age>
+        <Emp-emailid>"Employee Email Adress"</Emp-emailid>
+        <Emp-Phoneum>"Employee Phone Number"</Emp-PhoneNum>
+        <Emp-designation></Emp-designation>
+    </Employee>
+</Company>
